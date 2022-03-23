@@ -10,6 +10,7 @@ this is the multi line Comment !!!!
 print("Hello World I'm at the Top") # yaha par comma laga diya hai to space aa jayegi!! agar 2 bar print ho to 1st time print k baad ek new line character add hoga !!
 
 print("Thank you !!" , end=" Everyone \n" )
+print("Thank you !!" , end=" Everyone \n" )
 
 #Escape characters
 print ("C:\palak")
