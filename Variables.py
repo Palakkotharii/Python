@@ -2,8 +2,8 @@
 a=10
 b='Palak'
 c=4.99
-str1="Palak is Googler "
-str2="Priyanshu is my biggest enemy "
+str1="Palak"
+str2="Hii"
 str3="99"
 str4="1"
 print(type(a)) # using this function which tells the dt of variable !!
