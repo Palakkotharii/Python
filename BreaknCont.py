@@ -1,0 +1,11 @@
+print("Break and Continue statements in python :")
+# while (True): and while (1): will always run infinite
+i = 0
+while(True):
+    if(i+1 < 5):
+        i = i+1
+        continue
+    print(i+1, end=" ")
+    if(i == 44):
+        break
+    i = i+1
